@@ -6,254 +6,254 @@ METHOD:PUBLISH
 
 BEGIN:VEVENT
 UID:w1mw@intervalsplan
-DTSTART;VALUE=DATE:20260709
+DTSTART;VALUE=DATE:2026-07-09
 SUMMARY:Run: Midweek Easy 6km
-DESCRIPTION:- 6km Easy Pace Z2
+DESCRIPTION:- 6km Easy Pace @ 7:30/km\n\nTarget HR: ~127 bpm. Keep it strictly conversational.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w1sat@intervalsplan
-DTSTART;VALUE=DATE:20260711
+DTSTART;VALUE=DATE:2026-07-11
 SUMMARY:Run: Parkrun 5km
-DESCRIPTION:- 5km Parkrun Pace Z3
+DESCRIPTION:- 5km Parkrun Pace @ 6:00/km\n\nControlled tempo effort.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w1sun@intervalsplan
-DTSTART;VALUE=DATE:20260712
+DTSTART;VALUE=DATE:2026-07-13
 SUMMARY:Run: Long Run 8km
-DESCRIPTION:- 8km Long Run Pace Z2
+DESCRIPTION:- 8km Long Run Pace @ 7:30/km\n\nTarget HR: ~127 bpm. Focus on time on feet.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w2mw@intervalsplan
-DTSTART;VALUE=DATE:20260715
+DTSTART;VALUE=DATE:2026-07-16
 SUMMARY:Run: Midweek Easy 6km
-DESCRIPTION:- 6km Easy Pace Z2
+DESCRIPTION:- 6km Easy Pace @ 7:30/km\n\nTarget HR: ~127 bpm. Smooth and relaxed.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w2sat@intervalsplan
-DTSTART;VALUE=DATE:20260718
+DTSTART;VALUE=DATE:2026-07-18
 SUMMARY:Run: Parkrun 5km
-DESCRIPTION:- 5km Parkrun Pace Z3
+DESCRIPTION:- 5km Parkrun Pace @ 6:00/km\n\nControlled tempo effort.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w2sun@intervalsplan
-DTSTART;VALUE=DATE:20260719
+DTSTART;VALUE=DATE:2026-07-20
 SUMMARY:Run: Long Run 10km
-DESCRIPTION:- 10km Long Run Pace Z2
+DESCRIPTION:- 10km Long Run Pace @ 7:30/km\n\nTarget HR: ~127 bpm. Focus on aerobic base building.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w3mw@intervalsplan
-DTSTART;VALUE=DATE:20260722
+DTSTART;VALUE=DATE:2026-07-23
 SUMMARY:Run: Midweek Easy 7km
-DESCRIPTION:- 7km Easy Pace Z2
+DESCRIPTION:- 7km Easy Pace @ 7:30/km\n\nTarget HR: ~127 bpm. Keep it conversational.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w3sat@intervalsplan
-DTSTART;VALUE=DATE:20260725
+DTSTART;VALUE=DATE:2026-07-25
 SUMMARY:Run: Parkrun 5km
-DESCRIPTION:- 5km Parkrun Pace Z3
+DESCRIPTION:- 5km Parkrun Pace @ 6:00/km\n\nControlled tempo effort.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w3sun@intervalsplan
-DTSTART;VALUE=DATE:20260726
+DTSTART;VALUE=DATE:2026-07-27
 SUMMARY:Run: Long Run 11km
-DESCRIPTION:- 11km Long Run Pace Z2
+DESCRIPTION:- 11km Long Run Pace @ 7:30/km\n\nTarget HR: ~127 bpm.\n
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w4mw@intervalsplan
-DTSTART;VALUE=DATE:20260729
-SUMMARY:Run: Midweek Easy 5km
-DESCRIPTION:- 5km Easy Pace Z2
+DTSTART;VALUE=DATE:2026-07-30
+SUMMARY:Run: Midweek Easy 5km (Recovery)
+DESCRIPTION:- 5km Easy Pace @ 7:30/km\n\nTarget HR: ~127 bpm. Easy recovery jog.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w4sat@intervalsplan
-DTSTART;VALUE=DATE:20260801
-SUMMARY:Run: Parkrun Easy 5km
-DESCRIPTION:- 5km Easy Pace Z2
+DTSTART;VALUE=DATE:2026-08-01
+SUMMARY:Run: Parkrun Easy 5km (Recovery)
+DESCRIPTION:- 5km Easy Pace @ 7:30/km\n\nTake it very easy today for recovery week. Focus on keeping HR low.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w4sun@intervalsplan
-DTSTART;VALUE=DATE:20260802
-SUMMARY:Run: Long Run 8km
-DESCRIPTION:- 8km Long Run Pace Z2
+DTSTART;VALUE=DATE:2026-08-03
+SUMMARY:Run: Long Run 8km (Recovery)
+DESCRIPTION:- 8km Long Run Pace @ 7:30/km\n\nTarget HR: ~127 bpm. Shorter long run to absorb fitness.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w5mw@intervalsplan
-DTSTART;VALUE=DATE:20260805
+DTSTART;VALUE=DATE:2026-08-06
 SUMMARY:Run: Midweek Easy 7km
-DESCRIPTION:- 7km Easy Pace Z2
+DESCRIPTION:- 7km Easy Pace @ 7:30/km\n\nTarget HR: ~127 bpm. Keep it conversational.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w5sat@intervalsplan
-DTSTART;VALUE=DATE:20260808
+DTSTART;VALUE=DATE:2026-08-08
 SUMMARY:Run: Parkrun 5km
-DESCRIPTION:- 5km Parkrun Pace Z3
+DESCRIPTION:- 5km Parkrun Pace @ 6:00/km\n\nControlled tempo effort.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w5sun@intervalsplan
-DTSTART;VALUE=DATE:20260809
+DTSTART;VALUE=DATE:2026-08-10
 SUMMARY:Run: Long Run 13km
-DESCRIPTION:- 13km Long Run Pace Z2
+DESCRIPTION:- 13km Long Run Pace @ 7:30/km\n\nTarget HR: ~127 bpm. Steady building of mileage.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w6mw@intervalsplan
-DTSTART;VALUE=DATE:20260812
+DTSTART;VALUE=DATE:2026-08-13
 SUMMARY:Run: Midweek Easy 8km
-DESCRIPTION:- 8km Easy Pace Z2
+DESCRIPTION:- 8km Easy Pace @ 7:30/km\n\nTarget HR: ~127 bpm. Keep it conversational.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w6sat@intervalsplan
-DTSTART;VALUE=DATE:20260815
+DTSTART;VALUE=DATE:2026-08-15
 SUMMARY:Run: Parkrun 5km
-DESCRIPTION:- 5km Parkrun Pace Z3
+DESCRIPTION:- 5km Parkrun Pace @ 6:00/km\n\nControlled tempo effort.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w6sun@intervalsplan
-DTSTART;VALUE=DATE:20260816
+DTSTART;VALUE=DATE:2026-08-17
 SUMMARY:Run: Long Run 14.5km
-DESCRIPTION:- 14.5km Long Run Pace Z2
+DESCRIPTION:- 14.5km Long Run Pace @ 7:30/km\n\nTarget HR: ~127 bpm. Push past the 9-mile mark smoothly.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w7mw@intervalsplan
-DTSTART;VALUE=DATE:20260819
+DTSTART;VALUE=DATE:2026-08-20
 SUMMARY:Run: Midweek Easy 8km
-DESCRIPTION:- 8km Easy Pace Z2
+DESCRIPTION:- 8km Easy Pace @ 7:30/km\n\nTarget HR: ~127 bpm. Keep it conversational.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w7sat@intervalsplan
-DTSTART;VALUE=DATE:20260822
+DTSTART;VALUE=DATE:2026-08-22
 SUMMARY:Run: Parkrun 5km
-DESCRIPTION:- 5km Parkrun Pace Z3
+DESCRIPTION:- 5km Parkrun Pace @ 6:00/km\n\nControlled tempo effort.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w7sun@intervalsplan
-DTSTART;VALUE=DATE:20260823
+DTSTART;VALUE=DATE:2026-08-24
 SUMMARY:Run: Long Run 16km
-DESCRIPTION:- 16km Long Run Pace Z2
+DESCRIPTION:- 16km Long Run Pace @ 7:30/km\n\nTarget HR: ~127 bpm. 10-mile benchmark!
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w8mw@intervalsplan
-DTSTART;VALUE=DATE:20260826
-SUMMARY:Run: Midweek Easy 6km
-DESCRIPTION:- 6km Easy Pace Z2
+DTSTART;VALUE=DATE:2026-08-27
+SUMMARY:Run: Midweek Easy 6km (Recovery)
+DESCRIPTION:- 6km Easy Pace @ 7:30/km\n\nTarget HR: ~127 bpm. Easy recovery jog.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w8sat@intervalsplan
-DTSTART;VALUE=DATE:20260829
-SUMMARY:Run: Parkrun Easy 5km
-DESCRIPTION:- 5km Easy Pace Z2
+DTSTART;VALUE=DATE:2026-08-29
+SUMMARY:Run: Parkrun Easy 5km (Recovery)
+DESCRIPTION:- 5km Easy Pace @ 7:30/km\n\nEasy recovery pace today.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w8sun@intervalsplan
-DTSTART;VALUE=DATE:20260830
-SUMMARY:Run: Long Run 11km
-DESCRIPTION:- 11km Long Run Pace Z2
+DTSTART;VALUE=DATE:2026-08-31
+SUMMARY:Run: Long Run 11km (Recovery)
+DESCRIPTION:- 11km Long Run Pace @ 7:30/km\n\nTarget HR: ~127 bpm.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w9mw@intervalsplan
-DTSTART;VALUE=DATE:20260902
+DTSTART;VALUE=DATE:2026-09-03
 SUMMARY:Run: Midweek Easy 8km
-DESCRIPTION:- 8km Easy Pace Z2
+DESCRIPTION:- 8km Easy Pace @ 7:30/km\n\nTarget HR: ~127 bpm. Keep it conversational.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w9sat@intervalsplan
-DTSTART;VALUE=DATE:20260905
+DTSTART;VALUE=DATE:2026-09-05
 SUMMARY:Run: Parkrun 5km
-DESCRIPTION:- 5km Parkrun Pace Z3
+DESCRIPTION:- 5km Parkrun Pace @ 6:00/km\n\nControlled tempo effort.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w9sun@intervalsplan
-DTSTART;VALUE=DATE:20260906
+DTSTART;VALUE=DATE:2026-09-07
 SUMMARY:Run: Long Run 17.5km
-DESCRIPTION:- 17.5km Long Run Pace Z2
+DESCRIPTION:- 17.5km Long Run Pace @ 7:30/km\n\nTarget HR: ~127 bpm. Getting closer to race volume.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w10mw@intervalsplan
-DTSTART;VALUE=DATE:20260909
+DTSTART;VALUE=DATE:2026-09-10
 SUMMARY:Run: Midweek Easy 8km
-DESCRIPTION:- 8km Easy Pace Z2
+DESCRIPTION:- 8km Easy Pace @ 7:30/km\n\nTarget HR: ~127 bpm. Keep it conversational.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w10sat@intervalsplan
-DTSTART;VALUE=DATE:20260912
+DTSTART;VALUE=DATE:2026-09-12
 SUMMARY:Run: Parkrun 5km
-DESCRIPTION:- 5km Parkrun Pace Z3
+DESCRIPTION:- 5km Parkrun Pace @ 6:00/km\n\nControlled tempo effort.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w10sun@intervalsplan
-DTSTART;VALUE=DATE:20260913
-SUMMARY:Run: Long Run 19km
-DESCRIPTION:- 19km Long Run Pace Z2
+DTSTART;VALUE=DATE:2026-09-14
+SUMMARY:Run: Long Run 19km (Peak Run)
+DESCRIPTION:- 19km Long Run Pace @ 7:30/km\n\nTarget HR: ~127 bpm. Peak distance run of the plan!
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w11mw@intervalsplan
-DTSTART;VALUE=DATE:20260916
-SUMMARY:Run: Midweek Easy 7km
-DESCRIPTION:- 7km Easy Pace Z2
+DTSTART;VALUE=DATE:2026-09-17
+SUMMARY:Run: Midweek Easy 7km (Taper)
+DESCRIPTION:- 7km Easy Pace @ 7:30/km\n\nTarget HR: ~127 bpm. Shedding fatigue.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w11sat@intervalsplan
-DTSTART;VALUE=DATE:20260919
+DTSTART;VALUE=DATE:2026-09-19
 SUMMARY:Run: Parkrun 5km
-DESCRIPTION:- 5km Parkrun Pace Z3
+DESCRIPTION:- 5km Parkrun Pace @ 6:00/km\n\nControlled tempo effort.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w11sun@intervalsplan
-DTSTART;VALUE=DATE:20260920
-SUMMARY:Run: Long Run 13km
-DESCRIPTION:- 13km Long Run Pace Z2
+DTSTART;VALUE=DATE:2026-09-21
+SUMMARY:Run: Long Run 13km (Taper)
+DESCRIPTION:- 13km Long Run Pace @ 7:30/km\n\nTarget HR: ~127 bpm. Step down in volume to freshen the legs.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w12mw@intervalsplan
-DTSTART;VALUE=DATE:20260923
-SUMMARY:Run: Midweek Easy 5km
-DESCRIPTION:- 5km Easy Pace Z2
+DTSTART;VALUE=DATE:2026-09-24
+SUMMARY:Run: Midweek Easy 5km (Race Week)
+DESCRIPTION:- 5km Easy Pace @ 7:30/km\n\nTarget HR: ~127 bpm. Keep it nice and light.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w12sat@intervalsplan
-DTSTART;VALUE=DATE:20260926
+DTSTART;VALUE=DATE:2026-09-26
 SUMMARY:Run: Shakeout Jog 3km
-DESCRIPTION:- 3km Easy Jog Z2
+DESCRIPTION:- 3km Easy Jog @ 7:30/km\n\nJust ticking over the legs before tomorrow's race. Keep HR very low.
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w12sun@intervalsplan
-DTSTART;VALUE=DATE:20261004
+DTSTART;VALUE=DATE:2026-10-04
 SUMMARY:RACE DAY: Half Marathon 21.1km
-DESCRIPTION:- 21.1km Half Marathon Race Pace Z3/Z4
+DESCRIPTION:- 21.1km Half Marathon Race\n\nYou are ready! Trust your training.
 END:VEVENT
 
 END:VCALENDAR
