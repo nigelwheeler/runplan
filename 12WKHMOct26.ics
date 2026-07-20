@@ -8,252 +8,252 @@ BEGIN:VEVENT
 UID:w1mw@intervalsplan
 DTSTART;VALUE=DATE:20260709
 SUMMARY:Midweek Workout
-DESCRIPTION:Duration: 45m\n\nInfo:\n- 6km Easy Pace Z2 @ 7:30/km\n- Target HR: ~127 BPM
+DESCRIPTION:- 45m Z2 Easy\n\nInfo:\nTarget: 6km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w1sat@intervalsplan
 DTSTART;VALUE=DATE:20260711
 SUMMARY:Parkrun Session
-DESCRIPTION:Duration: 30m\n\nInfo:\n- 5km Parkrun Pace Z3 @ 6:00/km
+DESCRIPTION:- 30m Z3 Parkrun\n\nInfo:\nTarget: 5km @ 6:00/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w1sun@intervalsplan
 DTSTART;VALUE=DATE:20260713
 SUMMARY:Long Session
-DESCRIPTION:Duration: 60m\n\nInfo:\n- 8km Long Run Pace Z2 @ 7:30/km\n- Target HR: ~127 BPM
+DESCRIPTION:- 60m Z2 Long Run\n\nInfo:\nTarget: 8km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w2mw@intervalsplan
 DTSTART;VALUE=DATE:20260716
 SUMMARY:Midweek Workout
-DESCRIPTION:Duration: 45m\n\nInfo:\n- 6km Easy Pace Z2 @ 7:30/km\n- Target HR: ~127 BPM
+DESCRIPTION:- 45m Z2 Easy\n\nInfo:\nTarget: 6km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w2sat@intervalsplan
 DTSTART;VALUE=DATE:20260718
 SUMMARY:Parkrun Session
-DESCRIPTION:Duration: 30m\n\nInfo:\n- 5km Parkrun Pace Z3 @ 6:00/km
+DESCRIPTION:- 30m Z3 Parkrun\n\nInfo:\nTarget: 5km @ 6:00/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w2sun@intervalsplan
-DTSTART;VALUE=DATE:20260719
+DTSTART;VALUE=DATE:20260720
 SUMMARY:Long Session
-DESCRIPTION:Duration: 1h15m\n\nInfo:\n- 10km Long Run Pace Z2 @ 7:30/km\n- Target HR: ~127 BPM
+DESCRIPTION:- 1h15m Z2 Long Run\n\nInfo:\nTarget: 10km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w3mw@intervalsplan
 DTSTART;VALUE=DATE:20260723
 SUMMARY:Midweek Workout
-DESCRIPTION:Duration: 52m30s\n\nInfo:\n- 7km Easy Pace Z2 @ 7:30/km\n- Target HR: ~127 BPM
+DESCRIPTION:- 52m30s Z2 Easy\n\nInfo:\nTarget: 7km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w3sat@intervalsplan
 DTSTART;VALUE=DATE:20260725
 SUMMARY:Parkrun Session
-DESCRIPTION:Duration: 30m\n\nInfo:\n- 5km Parkrun Pace Z3 @ 6:00/km
+DESCRIPTION:- 30m Z3 Parkrun\n\nInfo:\nTarget: 5km @ 6:00/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w3sun@intervalsplan
 DTSTART;VALUE=DATE:20260727
 SUMMARY:Long Session
-DESCRIPTION:Duration: 1h22m30s\n\nInfo:\n- 11km Long Run Pace Z2 @ 7:30/km\n- Target HR: ~127 BPM
+DESCRIPTION:- 1h22m30s Z2 Long Run\n\nInfo:\nTarget: 11km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w4mw@intervalsplan
 DTSTART;VALUE=DATE:20260730
 SUMMARY:Midweek Workout
-DESCRIPTION:Duration: 37m30s\n\nInfo:\n- 5km Easy Pace Z2 @ 7:30/km\n- Target HR: ~127 BPM
+DESCRIPTION:- 37m30s Z2 Easy\n\nInfo:\nTarget: 5km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w4sat@intervalsplan
 DTSTART;VALUE=DATE:20260801
 SUMMARY:Parkrun Easy
-DESCRIPTION:Duration: 37m30s\n\nInfo:\n- 5km Easy Pace Z2 @ 7:30/km
+DESCRIPTION:- 37m30s Z2 Easy\n\nInfo:\nTarget: 5km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w4sun@intervalsplan
 DTSTART;VALUE=DATE:20260803
 SUMMARY:Long Session
-DESCRIPTION:Duration: 60m\n\nInfo:\n- 8km Long Run Pace Z2 @ 7:30/km\n- Target HR: ~127 BPM
+DESCRIPTION:- 60m Z2 Long Run\n\nInfo:\nTarget: 8km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w5mw@intervalsplan
 DTSTART;VALUE=DATE:20260806
 SUMMARY:Midweek Workout
-DESCRIPTION:Duration: 52m30s\n\nInfo:\n- 7km Easy Pace Z2 @ 7:30/km\n- Target HR: ~127 BPM
+DESCRIPTION:- 52m30s Z2 Easy\n\nInfo:\nTarget: 7km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w5sat@intervalsplan
 DTSTART;VALUE=DATE:20260808
 SUMMARY:Parkrun Session
-DESCRIPTION:Duration: 30m\n\nInfo:\n- 5km Parkrun Pace Z3 @ 6:00/km
+DESCRIPTION:- 30m Z3 Parkrun\n\nInfo:\nTarget: 5km @ 6:00/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w5sun@intervalsplan
 DTSTART;VALUE=DATE:20260810
 SUMMARY:Long Session
-DESCRIPTION:Duration: 1h37m30s\n\nInfo:\n- 13km Long Run Pace Z2 @ 7:30/km\n- Target HR: ~127 BPM
+DESCRIPTION:- 1h37m30s Z2 Long Run\n\nInfo:\nTarget: 13km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w6mw@intervalsplan
 DTSTART;VALUE=DATE:20260813
 SUMMARY:Midweek Workout
-DESCRIPTION:Duration: 60m\n\nInfo:\n- 8km Easy Pace Z2 @ 7:30/km\n- Target HR: ~127 BPM
+DESCRIPTION:- 60m Z2 Easy\n\nInfo:\nTarget: 8km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w6sat@intervalsplan
 DTSTART;VALUE=DATE:20260815
 SUMMARY:Parkrun Session
-DESCRIPTION:Duration: 30m\n\nInfo:\n- 5km Parkrun Pace Z3 @ 6:00/km
+DESCRIPTION:- 30m Z3 Parkrun\n\nInfo:\nTarget: 5km @ 6:00/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w6sun@intervalsplan
 DTSTART;VALUE=DATE:20260817
 SUMMARY:Long Session
-DESCRIPTION:Duration: 1h48m45s\n\nInfo:\n- 14.5km Long Run Pace Z2 @ 7:30/km\n- Target HR: ~127 BPM
+DESCRIPTION:- 1h48m45s Z2 Long Run\n\nInfo:\nTarget: 14.5km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w7mw@intervalsplan
 DTSTART;VALUE=DATE:20260820
 SUMMARY:Midweek Workout
-DESCRIPTION:Duration: 60m\n\nInfo:\n- 8km Easy Pace Z2 @ 7:30/km\n- Target HR: ~127 BPM
+DESCRIPTION:- 60m Z2 Easy\n\nInfo:\nTarget: 8km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w7sat@intervalsplan
 DTSTART;VALUE=DATE:20260822
 SUMMARY:Parkrun Session
-DESCRIPTION:Duration: 30m\n\nInfo:\n- 5km Parkrun Pace Z3 @ 6:00/km
+DESCRIPTION:- 30m Z3 Parkrun\n\nInfo:\nTarget: 5km @ 6:00/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w7sun@intervalsplan
 DTSTART;VALUE=DATE:20260824
 SUMMARY:Long Session
-DESCRIPTION:Duration: 2h00m\n\nInfo:\n- 16km Long Run Pace Z2 @ 7:30/km\n- Target HR: ~127 BPM
+DESCRIPTION:- 2h00m Z2 Long Run\n\nInfo:\nTarget: 16km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w8mw@intervalsplan
 DTSTART;VALUE=DATE:20260827
 SUMMARY:Midweek Workout
-DESCRIPTION:Duration: 45m\n\nInfo:\n- 6km Easy Pace Z2 @ 7:30/km\n- Target HR: ~127 BPM
+DESCRIPTION:- 45m Z2 Easy\n\nInfo:\nTarget: 6km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w8sat@intervalsplan
 DTSTART;VALUE=DATE:20260829
 SUMMARY:Parkrun Easy
-DESCRIPTION:Duration: 37m30s\n\nInfo:\n- 5km Easy Pace Z2 @ 7:30/km
+DESCRIPTION:- 37m30s Z2 Easy\n\nInfo:\nTarget: 5km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w8sun@intervalsplan
 DTSTART;VALUE=DATE:20260831
 SUMMARY:Long Session
-DESCRIPTION:Duration: 1h22m30s\n\nInfo:\n- 11km Long Run Pace Z2 @ 7:30/km\n- Target HR: ~127 BPM
+DESCRIPTION:- 1h22m30s Z2 Long Run\n\nInfo:\nTarget: 11km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w9mw@intervalsplan
 DTSTART;VALUE=DATE:20260903
 SUMMARY:Midweek Workout
-DESCRIPTION:Duration: 60m\n\nInfo:\n- 8km Easy Pace Z2 @ 7:30/km\n- Target HR: ~127 BPM
+DESCRIPTION:- 60m Z2 Easy\n\nInfo:\nTarget: 8km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w9sat@intervalsplan
 DTSTART;VALUE=DATE:20260905
 SUMMARY:Parkrun Session
-DESCRIPTION:Duration: 30m\n\nInfo:\n- 5km Parkrun Pace Z3 @ 6:00/km
+DESCRIPTION:- 30m Z3 Parkrun\n\nInfo:\nTarget: 5km @ 6:00/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w9sun@intervalsplan
 DTSTART;VALUE=DATE:20260907
 SUMMARY:Long Session
-DESCRIPTION:Duration: 2h11m15s\n\nInfo:\n- 17.5km Long Run Pace Z2 @ 7:30/km\n- Target HR: ~127 BPM
+DESCRIPTION:- 2h11m15s Z2 Long Run\n\nInfo:\nTarget: 17.5km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w10mw@intervalsplan
 DTSTART;VALUE=DATE:20260910
 SUMMARY:Midweek Workout
-DESCRIPTION:Duration: 60m\n\nInfo:\n- 8km Easy Pace Z2 @ 7:30/km\n- Target HR: ~127 BPM
+DESCRIPTION:- 60m Z2 Easy\n\nInfo:\nTarget: 8km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w10sat@intervalsplan
 DTSTART;VALUE=DATE:20260912
 SUMMARY:Parkrun Session
-DESCRIPTION:Duration: 30m\n\nInfo:\n- 5km Parkrun Pace Z3 @ 6:00/km
+DESCRIPTION:- 30m Z3 Parkrun\n\nInfo:\nTarget: 5km @ 6:00/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w10sun@intervalsplan
 DTSTART;VALUE=DATE:20260914
 SUMMARY:Long Session
-DESCRIPTION:Duration: 2h22m30s\n\nInfo:\n- 19km Long Run Pace Z2 @ 7:30/km\n- Target HR: ~127 BPM
+DESCRIPTION:- 2h22m30s Z2 Long Run\n\nInfo:\nTarget: 19km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w11mw@intervalsplan
 DTSTART;VALUE=DATE:20260917
 SUMMARY:Midweek Workout
-DESCRIPTION:Duration: 52m30s\n\nInfo:\n- 7km Easy Pace Z2 @ 7:30/km\n- Target HR: ~127 BPM
+DESCRIPTION:- 52m30s Z2 Easy\n\nInfo:\nTarget: 7km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w11sat@intervalsplan
 DTSTART;VALUE=DATE:20260919
 SUMMARY:Parkrun Session
-DESCRIPTION:Duration: 30m\n\nInfo:\n- 5km Parkrun Pace Z3 @ 6:00/km
+DESCRIPTION:- 30m Z3 Parkrun\n\nInfo:\nTarget: 5km @ 6:00/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w11sun@intervalsplan
 DTSTART;VALUE=DATE:20260921
 SUMMARY:Long Session
-DESCRIPTION:Duration: 1h37m30s\n\nInfo:\n- 13km Long Run Pace Z2 @ 7:30/km\n- Target HR: ~127 BPM
+DESCRIPTION:- 1h37m30s Z2 Long Run\n\nInfo:\nTarget: 13km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w12mw@intervalsplan
 DTSTART;VALUE=DATE:20260924
 SUMMARY:Midweek Workout
-DESCRIPTION:Duration: 37m30s\n\nInfo:\n- 5km Easy Pace Z2 @ 7:30/km\n- Target HR: ~127 BPM
+DESCRIPTION:- 37m30s Z2 Easy\n\nInfo:\nTarget: 5km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w12sat@intervalsplan
 DTSTART;VALUE=DATE:20260926
 SUMMARY:Shakeout Jog
-DESCRIPTION:Duration: 22m30s\n\nInfo:\n- 3km Easy Jog Z2 @ 7:30/km
+DESCRIPTION:- 22m30s Z2 Easy\n\nInfo:\nTarget: 3km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w12sun@intervalsplan
 DTSTART;VALUE=DATE:20261005
 SUMMARY:RACE DAY
-DESCRIPTION:Duration: 3h30m\n\nInfo:\n- 21.1km Half Marathon Race\n- Date: October 5th!
+DESCRIPTION:- 3h30m Race\n\nInfo:\nTarget: 21.1km Half Marathon
 END:VEVENT
 
 END:VCALENDAR
