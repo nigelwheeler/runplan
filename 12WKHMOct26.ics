@@ -14,7 +14,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:w1sat@intervalsplan
 DTSTART;VALUE=DATE:20260711
-SUMMARY:Parkrun Session
+SUMMARY:Parkrun Run
 DESCRIPTION:- 30m Z3 Parkrun\n\nInfo:\nTarget: 5km @ 6:00/km
 END:VEVENT
 
@@ -196,7 +196,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:w10sat@intervalsplan
 DTSTART;VALUE=DATE:20260912
-SUMMARY:Parkrun
+SUMMARY:Parkrun Run
 DESCRIPTION:- 37m30s Z2 Easy\n\nInfo:\nTarget: 5km @ 7:30/km
 END:VEVENT
 
@@ -238,7 +238,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:w12sat@intervalsplan
 DTSTART;VALUE=DATE:20260926
-SUMMARY:Parkrun Session
+SUMMARY:Parkrun Run
 DESCRIPTION:- 30m Z3 Parkrun\n\nInfo:\nTarget: 5km @ 6:00/km
 END:VEVENT
 
@@ -259,7 +259,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:w13sat@intervalsplan
 DTSTART;VALUE=DATE:20261003
-SUMMARY:Parkrun Session
+SUMMARY:Parkrun Run
 DESCRIPTION:- 30m Z3 Parkrun\n\nInfo:\nTarget: 5km @ 6:00/km
 END:VEVENT
 
