@@ -14,7 +14,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:w1sat@intervalsplan
 DTSTART;VALUE=DATE:20260711
-SUMMARY:Parkrun
+SUMMARY:Parkrun Session
 DESCRIPTION:- 30m Z3 Parkrun\n\nInfo:\nTarget: 5km @ 6:00/km
 END:VEVENT
 
