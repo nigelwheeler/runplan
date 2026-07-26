@@ -127,7 +127,7 @@ BEGIN:VEVENT
 UID:w6sun@intervalsplan
 DTSTART;VALUE=DATE:20260816
 SUMMARY:Long Session
-DESCRIPTION:- 1h45m Z2 Long Run\n\nInfo:\nTarget: 14km @ 7:30/km
+DESCRIPTION:- 1h52m30s Z2 Long Run\n\nInfo:\nTarget: 15km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
@@ -162,7 +162,7 @@ BEGIN:VEVENT
 UID:w8sun@intervalsplan
 DTSTART;VALUE=DATE:20260830
 SUMMARY:Long Session
-DESCRIPTION:- 1h52m30s Z2 Long Run\n\nInfo:\nTarget: 15km @ 7:30/km
+DESCRIPTION:- 2h00m Z2 Long Run\n\nInfo:\nTarget: 16km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
@@ -183,7 +183,7 @@ BEGIN:VEVENT
 UID:w9sun@intervalsplan
 DTSTART;VALUE=DATE:20260906
 SUMMARY:Long Session
-DESCRIPTION:- 2h03m45s Z2 Long Run\n\nInfo:\nTarget: 16.5km @ 7:30/km
+DESCRIPTION:- 2h15m Z2 Long Run\n\nInfo:\nTarget: 18km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
@@ -204,7 +204,7 @@ BEGIN:VEVENT
 UID:w10sun@intervalsplan
 DTSTART;VALUE=DATE:20260913
 SUMMARY:Long Session
-DESCRIPTION:- 1h22m30s Z2 Long Run\n\nInfo:\nTarget: 11km @ 7:30/km
+DESCRIPTION:- 1h30m Z2 Long Run\n\nInfo:\nTarget: 12km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
@@ -225,14 +225,14 @@ BEGIN:VEVENT
 UID:w11sun@intervalsplan
 DTSTART;VALUE=DATE:20260920
 SUMMARY:Long Session
-DESCRIPTION:- 2h15m Z2 Long Run\n\nInfo:\nTarget: 18km @ 7:30/km
+DESCRIPTION:- 2h30m Z2 Long Run\n\nInfo:\nTarget: 20km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
 UID:w12mw@intervalsplan
 DTSTART;VALUE=DATE:20260923
 SUMMARY:Midweek Workout
-DESCRIPTION:- 60m Z2 Easy\n\nInfo:\nTarget: 8km @ 7:30/km
+DESCRIPTION:- 67m30s Z2 Easy\n\nInfo:\nTarget: 9km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
@@ -246,7 +246,7 @@ BEGIN:VEVENT
 UID:w12sun@intervalsplan
 DTSTART;VALUE=DATE:20260927
 SUMMARY:Long Session
-DESCRIPTION:- 2h22m30s Z2 Long Run\n\nInfo:\nTarget: 19km @ 7:30/km
+DESCRIPTION:- 2h45m Z2 Long Run\n\nInfo:\nTarget: 22km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
@@ -267,7 +267,7 @@ BEGIN:VEVENT
 UID:w13sun@intervalsplan
 DTSTART;VALUE=DATE:20261004
 SUMMARY:Long Session
-DESCRIPTION:- 1h37m30s Z2 Long Run\n\nInfo:\nTarget: 13km @ 7:30/km
+DESCRIPTION:- 1h45m Z2 Long Run\n\nInfo:\nTarget: 14km @ 7:30/km
 END:VEVENT
 
 BEGIN:VEVENT
@@ -288,7 +288,7 @@ BEGIN:VEVENT
 UID:w14sun@intervalsplan
 DTSTART;VALUE=DATE:20261011
 SUMMARY:RACE DAY
-DESCRIPTION:- 3h30m Race\n\nInfo:\nTarget: 21.1km Half Marathon
+DESCRIPTION:- 4h00m Race\n\nInfo:\nTarget: 25km Race Day
 END:VEVENT
 
 END:VCALENDAR
