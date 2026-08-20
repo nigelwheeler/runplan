@@ -132,7 +132,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 UID:w7mw@intervalsplan
-DTSTART;VALUE=DATE:20260819
+DTSTART;VALUE=DATE:20260820
 SUMMARY:Holiday Run
 DESCRIPTION:- 5km 7:30/km\n\nInfo:\nTarget: 5km @ 7:30/km (Warm Spain session)
 END:VEVENT
